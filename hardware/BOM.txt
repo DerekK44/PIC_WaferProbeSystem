@@ -1,0 +1,42 @@
+Bill of Materials
+Copyright Derek M. Kita, 2019.
+
+==================================================
+Custom components for the alignment setup
+Using Plethora for CNC milled steel pieces
+1/2" thick iron (magnetic) board cut on waterjet
+==================================================
+
+fiber holder adaptor, quantity 2, 303 steel
+XYZ to rotation adaptor, quantity 2, 303 steel
+
+wafer chuck, quantity 1, 303 steel
+rotation stage adaptor, quantity 1, 303 steel
+
+In total, 6 machined parts
+
+==================================================
+Thorlabs + Newport components
+==================================================
+
+Thorlabs PR01 2x
+Thorlabs PR01A 2x
+Thorlabs GN2 2x
+Thorlabs RS6 8x
+Thorlabs MB618 2x
+Thorlabs HFV002 2x
+Thorlabs RP03 1x
+Thorlabs SLH1 2x
+
+Newport 462-XYZ-M 1x(right-hand)
+Newport 462-XYZ-LH-M 1x (left-hand)
+Newport HR-1 6x (for 0.1um sensitivity)
+Newport 9021-M 2x (to lift the XYZ stage up by ~6mm)
+
+==================================================
+Physike Instrumente Stages
+Linear stages with 150mm travel, 0.1um step size
+==================================================
+
+PI M-406.6DG stages 2x
+PI C-863.11 DC motor controller 2x
